@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohvimeeja.halvhjerne.dk/sitemap.xml
